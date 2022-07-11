@@ -35,8 +35,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Live Url](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/aldijoko/3-column-preview-card)
+- Live Site URL: [Live Url](https://aldijoko.github.io/3-column-preview-card/)
 
 ## My process
 
